@@ -8,7 +8,8 @@ This Repo includes my project for module one. The webpage's code was refactored 
 
 ## Link
 
-
+Here is the link to the GitPages site I have created.
+https://tjb47-dev.github.io/moduleOneChallenge/
 
 ## Screenshot
 
